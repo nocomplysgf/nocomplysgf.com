@@ -6,7 +6,7 @@
   <body>
 
   <header class="header">
-  <h1>NoComply.sgf site coming soon</h1>
+  <a href="cdn.4archive.org/img/8oFliPr.jpg">link text</a>
   </header>
 
   <section class="section">
