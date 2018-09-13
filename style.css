@@ -1,6 +1,7 @@
 <style>
 
-#hobbes {
+.hobbes {
+background-image: url("images/hobbes.jpg");
 height: 80%;
 background-position: center;
 }
