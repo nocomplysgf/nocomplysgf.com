@@ -1,6 +1,13 @@
 <style>
 
+body{
+  background-color: #ffffff;
+}
+
 .hobbes {
-background-image: url("images/hobbes.jpg");
-background-size: contain;
+  width: 100%;
+  height: 400px;
+  background-image: url("image/hobbes.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
 }
