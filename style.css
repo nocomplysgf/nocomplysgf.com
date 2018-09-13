@@ -1,6 +1,6 @@
 <style>
 
 .hobbes {
-  width: 100px;
-  height: 100px;
+background-image: url("images/hobbes.jpg");
+background-size: contain;
 }
