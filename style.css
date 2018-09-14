@@ -8,8 +8,8 @@
 }
 
 #img .title h1 {
-  border: solid 3px black;
   position: relative;
+  text-align: center;
   top: 50px;
   width: 400px;
   margin: 0 auto;
