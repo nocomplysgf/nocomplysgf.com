@@ -1,13 +1,8 @@
 
-.img {
-  display:block;
-  align-content: center;
-
-  }
-
 .title{
   display:block;
-  text-align: center;
+  text-align: left;
   color: black;
+  background-image:image("images/blue.jpg");
 
 }
