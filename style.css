@@ -1,8 +1,15 @@
 
 p{
-  height: 100px;
-  width: 100px;
-  background-image: image("images/hobbes.jpg");
+  display:block;
+   position:absolute;
+   background-image:url("../images/hobbes.jpg");
+   background-repeat:no-repeat;
+   background-size: 100% 100%;
+   width:122px;
+   height:148px;
+   float:right;
+   bottom:0;
+   right:0;
 }
 
 h3{
