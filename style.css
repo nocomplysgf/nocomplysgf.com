@@ -1,10 +1,13 @@
 
-.hobbes {
-display:block;
-bottom:0;
-right:0;
-}
+.img {
+  display:block;
+  align-content: center;
 
-h3{
-color: black;
+  }
+
+.title{
+  display:block;
+  text-align: center;
+  color: black;
+
 }
