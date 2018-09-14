@@ -1,11 +1,16 @@
 
-.title{
-  display:block;
-  text-align: left;
-  color: black;
-  background-image: url("blue.jpg"); /* The image used */
-  height: 500px; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
+#img {
+  background-image: url("images/blue.jpg");
   background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 100%;
+}
+
+#img .title h1 {
+  border: solid 3px black;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
 }
