@@ -3,6 +3,9 @@
   display:block;
   text-align: left;
   color: black;
-  background-image:image("images/blue.jpg");
-
+  background-image: url("blue.jpg"); /* The image used */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
 }
